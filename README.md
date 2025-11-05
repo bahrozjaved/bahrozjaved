@@ -2,7 +2,7 @@
  
    
 <p align="center">
-  <a href="https://github.com/codeashing">
+  <a href="https://github.com/bahrozjaved">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=10000000&color=4E96FF&center=true&repeat=false&width=435&lines=Bahroz+Javed" alt="Bahroz Javed" /></a>
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -138,7 +138,7 @@
 
 ### **_<img src="https://media.giphy.com/media/KeUoFXwyzOksZrJ6D6/giphy.gif" width="30px"> &nbsp; Streak Stats_**
 
-[![GitHub Streak](https://streak-stats.demolab.com/demo/preview.php?user=bahrozjaved&theme=dark)](https://git.io/streak-stats)
+ <img src="https://streak-stats.demolab.com/demo/preview.php?user=bahrozjaved&theme=dark" alt="Streak">
 
 
 ### **_<img src="https://media.giphy.com/media/Th4eDUkNM3BYRXnzQi/giphy.gif" width="40px"> &nbsp; GitHub Profile Stats_**
