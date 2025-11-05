@@ -138,7 +138,8 @@
 
 ### **_<img src="https://media.giphy.com/media/KeUoFXwyzOksZrJ6D6/giphy.gif" width="30px"> &nbsp; Streak Stats_**
 
- <img src="https://streak-stats.demolab.com/demo/preview.php?user=bahrozjaved&theme=dark" alt="Streak">
+ [![GitHub Streak](https://streak-stats.demolab.com/demo/preview.php?user=bahrozjaved&theme=dark)](https://git.io/streak-stats)
+
 
 
 ### **_<img src="https://media.giphy.com/media/Th4eDUkNM3BYRXnzQi/giphy.gif" width="40px"> &nbsp; GitHub Profile Stats_**
